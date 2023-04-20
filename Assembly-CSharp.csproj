@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8bb05ef3-b912-ced0-9002-47b99201143e}</ProjectGuid>
+    <ProjectGuid>{784a8050-dc37-bda4-66a4-ecb9b13be71b}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -299,7 +299,7 @@
      <HintPath>/Applications/Unity/Hub/Editor/2020.3.24f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="Newtonsoft.Json">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
      <HintPath>/Applications/Unity/Hub/Editor/2020.3.24f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -647,70 +647,70 @@
      <HintPath>/Applications/Unity/Hub/Editor/2020.3.24f1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
      </Reference>
      <Reference Include="Unity.ShaderGraph.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Mathematics.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Searcher.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.Runtime">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.Editor">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Mathematics">
-     <HintPath>/Users/base/Documents/Unity Projects/nusmods-rest-api/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+     <HintPath>/Users/base/Documents/gh/nusmods-unity-rest-api/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
