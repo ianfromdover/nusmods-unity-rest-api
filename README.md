@@ -20,3 +20,6 @@ this dummy project aims to
 
 To try other fields available on NUSMODS, refer to the API documentation from here https://api.nusmods.com/v2/#/
 
+### Credits
+SimpleJSON for JSON parsing by [inanoglu on GitHub](https://github.com/inanoglu/SimpleJSON)
+
